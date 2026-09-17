@@ -170,7 +170,7 @@ const questions = [
         options: [
             "To cool down their face",
             "To lower their standards for a snack",
-            "A, B & C",
+            "All",
             "To check if new food automatically spawned"
         ],
         correctAnswer: "All"
