@@ -1,5 +1,7 @@
 # Quiz App 🧠
 
+<img src="./quiz-preview.png" alt="Quiz App Preview">
+
 A responsive and interactive Quiz App built with HTML, CSS, and JavaScript, featuring multiple-choice questions, score tracking, progress indicators, and instant answer feedback.
 
 ## ✨ Features
